@@ -1,0 +1,31 @@
+From eab84c97806b146d8ac3523dbd3a384605f449ce Mon Sep 17 00:00:00 2001
+From: Ananya104 <ananyam1702@gmail.com>
+Date: Fri, 7 Oct 2022 23:21:01 -0400
+Subject: [PATCH 2/3] first
+
+---
+ index.html | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 98d80ff..3e6a5ba 100644
+--- a/index.html
++++ b/index.html
+@@ -121,7 +121,7 @@
+     <div class="row">
+         
+       <div class="col-lg-6">
+-      <h1> Because Every Pet Deserves a Home! </i></h1>
++      <h1> Because Every Pet Deserves a lovely Home! </i></h1>
+       <button type="button" class="btn btn-dark btn-lg download-button"><i class="fa-brands fa-google-play"></i> Download</button>
+       <button type="button" class="btn btn-light btn-lg download-button"><i class="fa-brands fa-apple"></i> Download</button>
+     
+@@ -261,3 +261,5 @@
+ </body>
+ 
+ </html>
++
++bash: line 1: ^C: command not found
+-- 
+2.34.1
+

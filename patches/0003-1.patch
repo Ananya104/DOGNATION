@@ -1,0 +1,32 @@
+From e3ffc78158d0cf5d2bc8a6c9ae5b0a60fb0ec34f Mon Sep 17 00:00:00 2001
+From: Ananya104 <ananyam1702@gmail.com>
+Date: Fri, 7 Oct 2022 23:25:17 -0400
+Subject: [PATCH 3/3] 1)
+
+---
+ Adopt.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/Adopt.html b/Adopt.html
+index c3ef7db..d96e107 100644
+--- a/Adopt.html
++++ b/Adopt.html
+@@ -17,7 +17,7 @@
+  
+   <link rel="stylesheet" href="public/style.css">
+   
+-  <!--Google fonts-->
++  <!--Google fonts links-->
+ 
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+@@ -154,4 +154,4 @@
+     <i class="fa-solid fa-envelope fa-2x social-icon"></i>
+     <p id="copyright">© Copyright DogNation</p>
+     </div>
+-  </footer>
+\ No newline at end of file
++  </footer>
+-- 
+2.34.1
+
